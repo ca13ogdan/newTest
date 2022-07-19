@@ -78,7 +78,7 @@ function App() {
             <div className='price'>
               <Card>
                 <Card.Content>
-                  <Card.Header> Portofolio Balance</Card.Header>
+                  <Card.Header> BTC Price</Card.Header>
                   <Card.Description>$ {priceData[currency].rate}</Card.Description>
                 </Card.Content>
               </Card>
